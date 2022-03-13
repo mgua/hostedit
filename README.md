@@ -1,10 +1,7 @@
 # hostedit
 A powershell script to update Windows hosts file with current WSL ip address(es)
 
-this windows powershell file updates hosts file
-with local wsl current ip address
-allowing easy integration with locally provided
-apps in development machines
+this windows powershell file updates Windows hosts file with current wsl ip address allowing integration with wsl provided services 
 
 Marco Guardigli
 mgua@tomware.it
