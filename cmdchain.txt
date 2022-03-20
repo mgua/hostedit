@@ -1,0 +1,5 @@
+# this is cmdchain.txt
+# containing commands to be sent to wsl host
+#
+hostname
+/home/mgua/start
