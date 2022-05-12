@@ -6,7 +6,10 @@ this Windows powershell file is designed to update Windows hosts file with curre
 Marco Guardigli
 mgua@tomware.it
 mar 20, 2022
-updated on may 12 2022, to support ubuntu 20.04, and multiple ip on WSL machine
+
+updated on may 12 2022, to support ubuntu 20.04, 
+  and multiple ip on WSL machine, 
+  after Klaudija Stefan (kstefan@tomware.it) comment.
 
 ## Installation
  - Place this hostedit.ps1 file in 
