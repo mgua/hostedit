@@ -38,3 +38,11 @@ updated on may 12 2022, to support ubuntu 20.04,
    at the end of the target line leaving a space after "powershell.exe"
  - When needed, right click on the shortcut and run as administrator
  
+ For Windows11:
+ 
+ - Install the last version of Powershell (tested with 7)
+ - Go to "C:\Program Files\PowerShell\7\" and
+   Create a desktop shortcut for pwsh.exe and name it "hostedit"
+ - Edit its properties and add c:\windows\system32\drivers\etc\hostedit_v02.ps1 
+   at the end of the target line leaving a space after "C:\Program Files\PowerShell\7\pwsh.exe"
+ - When needed, right click on the shortcut and run as administrator
